@@ -1,0 +1,20 @@
+toc:
+- title: Reports
+  sub:
+      - page: Reports
+        url: /reports.html
+      - page: Training Resources
+        url: https://github.com/LimpopoLab
+- title: Data
+  sub:
+      - page: Project Data
+        url: /data.html
+      - page: Data Resources
+        url: /data_resources.html
+- title: People
+  sub:
+      - page: Principal Investigators
+        url: /pis.html
+      - page: Students
+        url: /students.html
+      

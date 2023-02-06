@@ -1,0 +1,2 @@
+The Limpopo Resilience Lab is a project led by [University of Venda](https://www.univen.ac.za/) with [Duquesne University](https://www.duq.edu) and [Rensselaer Polytechnic Institute](https://www.rpi.edu/).  
+This work was supported by the United States Agency for International Development, Southern Africa Regional Mission, Fixed Amount Award 72067419FA00001. This work reflects the work of the authors and does not necessarily reflect the views of USAID or the United States Government.  
