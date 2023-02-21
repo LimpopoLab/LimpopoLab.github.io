@@ -1,10 +1,12 @@
 toc:
 - title: Reports
   sub:
-      - page: Reports
+      - page: Project Reports
         url: /reports.html
+      - page: Limpopo Reports
+        url: /dsc.html
       - page: Training Resources
-        url: https://github.com/LimpopoLab
+        url: /training.html
 - title: Data
   sub:
       - page: Project Data
