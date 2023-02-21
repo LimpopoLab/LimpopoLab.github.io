@@ -4,6 +4,10 @@ title: Reports
 ---
 # Reports  
 
+## Theses and Dissertations  
+ - Bakar, S. (2022). Hydrologic modeling with remote sensing for the estimation of groundwater resources within the Sand River Catchment, South Africa (Master’s thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2060](https://dsc.duq.edu/etd/2060)  
+ - Zuccolotto, G. (2022). Assessing the Risk of Land Subsidence in the Lower Limpopo River Basin, Mozambique with Remote Sensing (Master’s thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2034](https://dsc.duq.edu/etd/2034)  
+
 ## Stakeholder Reports  
  - Sharp, G. and Kahler, D. M., (2019). WaterQ2: Understanding Water Quality and Quantity in the
 Limpopo Basin, 2019 Stakeholder Meeting Report. Thohoyandou, South Africa: Limpopo Resilience Lab.  26 September 2019  
