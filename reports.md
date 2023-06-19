@@ -8,15 +8,11 @@ title: Reports
  - Bakar, S. (2022). Hydrologic modeling with remote sensing for the estimation of groundwater resources within the Sand River Catchment, South Africa (Master’s thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2060](https://dsc.duq.edu/etd/2060)  
  - Zuccolotto, G. (2022). Assessing the Risk of Land Subsidence in the Lower Limpopo River Basin, Mozambique with Remote Sensing (Master’s thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2034](https://dsc.duq.edu/etd/2034)  
 
-## Stakeholder Reports  
+## Stakeholder Meeting Reports  
  - Sharp, G. and Kahler, D. M., (2019). WaterQ2: Understanding Water Quality and Quantity in the
 Limpopo Basin, 2019 Stakeholder Meeting Report. Thohoyandou, South Africa: Limpopo Resilience Lab.  26 September 2019  
  - 2020  
  - 2021  
-
-## Training Reports  
- - 2020  
- - 2022  
 
 ## Project Reports  
  - Kahler, D. M., Sharp, G. D., Edokpayi, J. N., and Rose, K. C., (2019). [WaterQ2: Understanding Water
@@ -25,6 +21,7 @@ Thohoyandou, South Africa: Limpopo Resilience Lab.  16 June 2019
 - Kahler, D. M., Edokpayi, J. N., and Rose, K. C., (2019). [WaterQ2: Understanding Water Quality and
 Quantity in the Limpopo Basin, Hydrometeorological Station Network](https://pdf.usaid.gov/pdf_docs/PA00X9ZT.pdf). Thohoyandou, South Africa:
 Limpopo Resilience Lab.  12 Dec 2019  
+- Kahler, D. M., Edokpayi, J. N., and Rose, K. C., (2022). [Analysis of Water Resources Management in the Limpopo River Basin](https://pdf.usaid.gov/pdf_docs/39c4e7f463544b348feb5404699103fd.pdf).  Thohoyandou, South Africa, Limpopo Resilience Lab.  29 March 2022  
 
 ## Quarterly Reports  
  - Kahler, D. M., Edokpayi, J. N., Rose, K. C., (2019). [WaterQ2: Understanding Water Quality and
