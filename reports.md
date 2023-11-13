@@ -5,8 +5,10 @@ title: Reports
 # Reports  
 
 ## Theses and Dissertations  
+ - Shibambu, T. H. (2023). Assessment of Potential Temporal Impacts of Land use Activities on Water Quality of the Luvuvhu River Catchment, South Africa (Master's thesis, University of Venda). Retrieved from [https://univendspace.univen.ac.za/handle/11602/2594](https://univendspace.univen.ac.za/handle/11602/2594))  
  - Bakar, S. (2022). Hydrologic modeling with remote sensing for the estimation of groundwater resources within the Sand River Catchment, South Africa (Master’s thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2060](https://dsc.duq.edu/etd/2060)  
- - Zuccolotto, G. (2022). Assessing the Risk of Land Subsidence in the Lower Limpopo River Basin, Mozambique with Remote Sensing (Master’s thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2034](https://dsc.duq.edu/etd/2034)  
+ - Zuccolotto, G. (2022). Assessing the Risk of Land Subsidence in the Lower Limpopo River Basin, Mozambique with Remote Sensing (Master’s thesis, Duquesne University). Retrieved from [https://dsc.duq.edu/etd/2034](https://dsc.duq.edu/etd/2034)
+ - Mutileni, N. (2021). Assessment of health risk association with groundwater from Collins Chabane and Makhado Municipality of Vhembe District (Master's thesis, University of Venda). Retrieved from [https://univendspace.univen.ac.za/handle/11602/1830](https://univendspace.univen.ac.za/handle/11602/1830)  
 
 ## Stakeholder Meeting Reports  
  - Sharp, G. and Kahler, D. M., (2019). WaterQ2: Understanding Water Quality and Quantity in the
